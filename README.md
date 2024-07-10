@@ -107,6 +107,10 @@ fig.update_layout(
 fig.write_html("3D_plot_logNH_logCplus_distance.html")
 ```
 
+## Screenshot from the final interactive plot: 
+
+![Screenshot 2024-07-10 at 13 59 02](https://github.com/umitkavak/3D-Scatter-Plot/assets/26542534/9c0c3718-85ed-4687-9033-2e2bca8e1282)
+
 ### Step-by-Step Explanation
 
 1. **Import Libraries**:
